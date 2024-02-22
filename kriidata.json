@@ -1,1403 +1,636 @@
 [
     {
-        "date": "2023-09-01",
-        "languages": {}
+        "date": "2023-09-01"
     },
     {
-        "date": "2023-09-02",
-        "languages": {}
+        "date": "2023-09-02"
     },
     {
         "date": "2023-09-03",
-        "languages": {
-            "Python": {
-                "percent": 100.0,
-                "seconds": 772.0
-            }
-        }
+        "Python": 772.0
     },
     {
         "date": "2023-09-04",
-        "languages": {
-            "Python": {
-                "percent": 96.14,
-                "seconds": 7399.0
-            },
-            "C++": {
-                "percent": 2.05,
-                "seconds": 158.0
-            },
-            "JSON": {
-                "percent": 1.18,
-                "seconds": 91.0
-            },
-            "Text": {
-                "percent": 0.62,
-                "seconds": 48.0
-            }
-        }
+        "Python": 7399.0,
+        "C++": 158.0,
+        "JSON": 91.0,
+        "Text": 48.0
     },
     {
-        "date": "2023-09-05",
-        "languages": {}
+        "date": "2023-09-05"
     },
     {
         "date": "2023-09-06",
-        "languages": {
-            "C++": {
-                "percent": 100.0,
-                "seconds": 3423.0
-            }
-        }
+        "C++": 3423.0
     },
     {
         "date": "2023-09-07",
-        "languages": {
-            "C++": {
-                "percent": 100.0,
-                "seconds": 4877.0
-            }
-        }
+        "C++": 4877.0
     },
     {
-        "date": "2023-09-08",
-        "languages": {}
+        "date": "2023-09-08"
     },
     {
         "date": "2023-09-09",
-        "languages": {
-            "JSON": {
-                "percent": 2.49,
-                "seconds": 559.0
-            },
-            "Python": {
-                "percent": 26.15,
-                "seconds": 513.0
-            },
-            "Go": {
-                "percent": 20.54,
-                "seconds": 403.0
-            },
-            "C#": {
-                "percent": 17.79,
-                "seconds": 349.0
-            },
-            "HTML": {
-                "percent": 7.04,
-                "seconds": 138.0
-            }
-        }
+        "JSON": 559.0,
+        "Python": 513.0,
+        "Go": 403.0,
+        "C#": 349.0,
+        "HTML": 138.0
     },
     {
         "date": "2023-09-10",
-        "languages": {
-            "Go": {
-                "percent": 100,
-                "seconds": 8793.0
-            }
-        }
+        "Go": 8793.0
     },
     {
-        "date": "2023-09-11",
-        "languages": {}
+        "date": "2023-09-11"
     },
     {
         "date": "2023-09-12",
-        "languages": {
-            "Python": {
-                "percent": 100,
-                "seconds": 1288.0
-            }
-        }
+        "Python": 1288.0
     },
     {
         "date": "2023-09-13",
-        "languages": {
-            "C#": {
-                "percent": 41.23,
-                "seconds": 2907.0
-            },
-            "Go": {
-                "percent": 39.56,
-                "seconds": 2789.0
-            },
-            "Python": {
-                "percent": 9.35,
-                "seconds": 659.0
-            },
-            "HTML": {
-                "percent": 9.05,
-                "seconds": 682.0
-            },
-            "JSON": {
-                "percent": 0.18,
-                "seconds": 13.0
-            }
-        }
+        "C#": 2907.0,
+        "Go": 2789.0,
+        "Python": 659.0,
+        "HTML": 682.0,
+        "JSON": 13.0
     },
     {
         "date": "2023-09-14",
-        "languages": {
-            "C#": {
-                "percent": 89.06,
-                "seconds": 3404.0
-            },
-            "Go": {
-                "percent": 10.86,
-                "seconds": 415.0
-            },
-            "JSON": {
-                "percent": 0.08,
-                "seconds": 3.0
-            }
-        }
+        "C#": 3404.0,
+        "Go": 415.0,
+        "JSON": 3.0
     },
     {
         "date": "2023-09-15",
-        "languages": {
-            "C#": {
-                "percent": 95.23,
-                "seconds": 8283.0
-            },
-            "Python": {
-                "percent": 3.99,
-                "seconds": 347.0
-            },
-            "JSON": {
-                "percent": 0.78,
-                "seconds": 68.0
-            }
-        }
+        "C#": 8283.0,
+        "Python": 347.0,
+        "JSON": 68.0
     },
     {
         "date": "2023-09-16",
-        "languages": {
-            "C#": {
-                "percent": 96.94,
-                "seconds": 12185.0
-            },
-            "JSON": {
-                "percent": 3.06,
-                "seconds": 384.0
-            }
-        }
+        "C#": 12185.0,
+        "JSON": 384.0
     },
     {
-        "date": "2023-09-17",
-        "languages": {}
+        "date": "2023-09-17"
     },
     {
-        "date": "2023-09-18",
-        "languages": {}
+        "date": "2023-09-18"
     },
     {
-        "date": "2023-09-19",
-        "languages": {}
+        "date": "2023-09-19"
     },
     {
         "date": "2023-09-20",
-        "languages": {
-            "C#": {
-                "percent": 100.0,
-                "seconds": 4347.0
-            }
-        }
+        "C#": 4347.0
     },
     {
-        "date": "2023-09-21",
-        "languages": {}
+        "date": "2023-09-21"
     },
     {
         "date": "2023-09-22",
-        "languages": {
-            "C#": {
-                "percent": 100.0,
-                "seconds": 6777.0
-            }
-        }
+        "C#": 6777.0
     },
     {
-        "date": "2023-09-23",
-        "languages": {}
+        "date": "2023-09-23"
     },
     {
         "date": "2023-09-24",
-        "languages": {
-            "Go": {
-                "percent": 100.0,
-                "seconds": 3444.0
-            }
-        }
+        "Go": 3444.0
     },
     {
         "date": "2023-09-25",
-        "languages": {
-            "C#": {
-                "percent": 100.0,
-                "seconds": 4477.0
-            }
-        }
+        "C#": 4477.0
     },
     {
         "date": "2023-09-26",
-        "languages": {
-            "C#": {
-                "percent": 51.77,
-                "seconds": 3285.0
-            },
-            "Python": {
-                "percent": 48.23,
-                "seconds": 3060.0
-            }
-        }
+        "C#": 3285.0,
+        "Python": 3060.0
     },
     {
         "date": "2023-09-27",
-        "languages": {
-            "C#": {
-                "percent": 51.81,
-                "seconds": 6915.0
-            },
-            "Python": {
-                "percent": 37.57,
-                "seconds": 5015.0
-            },
-            "JSON": {
-                "percent": 6.04,
-                "seconds": 806.0
-            },
-            "Text": {
-                "percent": 4.58,
-                "seconds": 611.0
-            }
-        }
+        "C#": 6915.0,
+        "Python": 5015.0,
+        "JSON": 806.0,
+        "Text": 611.0
     },
     {
         "date": "2023-09-28",
-        "languages": {
-            "C#": {
-                "percent": 64.67,
-                "seconds": 1655.0
-            },
-            "Python": {
-                "percent": 26.92,
-                "seconds": 689.0
-            },
-            "JSON": {
-                "percent": 8.4,
-                "seconds": 215.0
-            }
-        }
+        "C#": 1655.0,
+        "Python": 689.0,
+        "JSON": 215.0
     },
     {
         "date": "2023-09-29",
-        "languages": {
-            "C#": {
-                "percent": 51.77,
-                "seconds": 3285.0
-            },
-            "Python": {
-                "percent": 48.23,
-                "seconds": 3060.0
-            }
-        }
+        "C#": 3285.0,
+        "Python": 3060.0
     },
     {
-        "date": "2023-09-30",
-        "languages": {}
+        "date": "2023-09-30"
     },
     {
-        "date": "2023-10-01",
-        "languages": {}
+        "date": "2023-10-01"
     },
     {
         "date": "2023-10-02",
-        "languages": {
-            "C#": {
-                "percent": 100,
-                "seconds": 3285.0
-            }
-        }
+        "C#": 3285.0
     },
     {
-        "date": "2023-10-03",
-        "languages": {}
+        "date": "2023-10-03"
     },
     {
         "date": "2023-10-04",
-        "languages": {
-            "C#": {
-                "percent": 51.77,
-                "seconds": 3285.0
-            },
-            "Python": {
-                "percent": 48.23,
-                "seconds": 3060.0
-            }
-        }
+        "C#": 3285.0,
+        "Python": 3060.0
     },
     {
-        "date": "2023-10-05",
-        "languages": {}
+        "date": "2023-10-05"
     },
     {
-        "date": "2023-10-06",
-        "languages": {}
+        "date": "2023-10-06"
     },
     {
-        "date": "2023-10-07",
-        "languages": {}
+        "date": "2023-10-07"
     },
     {
-        "date": "2023-10-08",
-        "languages": {}
+        "date": "2023-10-08"
     },
     {
-        "date": "2023-10-09",
-        "languages": {}
+        "date": "2023-10-09"
     },
     {
         "date": "2023-10-10",
-        "languages": {
-            "Python": {
-                "percent": 73.59,
-                "seconds": 1326.0
-            },
-            "JSON": {
-                "percent": 20.15,
-                "seconds": 363.0
-            },
-            "Text": {
-                "percent": 6.26,
-                "seconds": 112.843639
-            }
-        }
+        "Python": 1326.0,
+        "JSON": 363.0,
+        "Text": 112.843639
     },
     {
-        "date": "2023-10-11",
-        "languages": {}
+        "date": "2023-10-11"
     },
     {
-        "date": "2023-10-12",
-        "languages": {}
+        "date": "2023-10-12"
     },
     {
-        "date": "2023-10-13",
-        "languages": {}
+        "date": "2023-10-13"
     },
     {
-        "date": "2023-10-14",
-        "languages": {}
+        "date": "2023-10-14"
     },
     {
-        "date": "2023-10-15",
-        "languages": {}
+        "date": "2023-10-15"
     },
     {
-        "date": "2023-10-16",
-        "languages": {}
+        "date": "2023-10-16"
     },
     {
         "date": "2023-10-17",
-        "languages": {
-            "C#": {
-                "percent": 46.58,
-                "seconds": 5997.0
-            },
-            "Python": {
-                "percent": 22.66,
-                "seconds": 2917.0
-            },
-            "Go": {
-                "percent": 22.11,
-                "seconds": 2847.0
-            },
-            "HTML": {
-                "percent": 5.2,
-                "seconds": 670.0
-            },
-            "JSON": {
-                "percent": 3.44,
-                "seconds": 422.0
-            }
-        }
+        "C#": 5997.0,
+        "Python": 2917.0,
+        "Go": 2847.0,
+        "HTML": 670.0,
+        "JSON": 422.0
     },
     {
         "date": "2023-10-18",
-        "languages": {
-            "C#": {
-                "percent": 100.0,
-                "seconds": 14337.0
-            }
-        }
+        "C#": 14337.0
     },
     {
         "date": "2023-10-19",
-        "languages": {
-            "C#": {
-                "percent": 100.0,
-                "seconds": 66.0
-            }
-        }
+        "C#": 66.0
     },
     {
-        "date": "2023-10-20",
-        "languages": {}
+        "date": "2023-10-20"
     },
     {
         "date": "2023-10-21",
-        "languages": {
-            "C#": {
-                "percent": 100.0,
-                "seconds": 6666.0
-            }
-        }
+        "C#": 6666.0
     },
     {
         "date": "2023-10-22",
-        "languages": {
-            "Go": {
-                "percent": 100.0,
-                "seconds": 1242.0
-            }
-        }
+        "Go": 1242.0
     },
     {
         "date": "2023-10-23",
-        "languages": {
-            "C#": {
-                "percent": 100.0,
-                "seconds": 6345.0
-            }
-        }
+        "C#": 6345.0
     },
     {
         "date": "2023-10-24",
-        "languages": {
-            "Go": {
-                "percent": 80.25,
-                "seconds": 4960.0
-            },
-            "C#": {
-                "percent": 19.75,
-                "seconds": 1221.0
-            }
-        }
+        "Go": 4960.0,
+        "C#": 1221.0
     },
     {
         "date": "2023-10-25",
-        "languages": {
-            "Go": {
-                "percent": 80.25,
-                "seconds": 3466.0
-            },
-            "C#": {
-                "percent": 19.75,
-                "seconds": 853.0
-            }
-        }
+        "Go": 3466.0,
+        "C#": 853.0
     },
     {
-        "date": "2023-10-26",
-        "languages": {}
+        "date": "2023-10-26"
     },
     {
         "date": "2023-10-27",
-        "languages": {
-            "C#": {
-                "percent": 100.0,
-                "seconds": 380.0
-            }
-        }
+        "C#": 380.0
     },
     {
         "date": "2023-10-28",
-        "languages": {
-            "C#": {
-                "percent": 0,
-                "seconds": 0.0
-            }
-        }
+        "C#": 0.0
     },
     {
         "date": "2023-10-29",
-        "languages": {
-            "C#": {
-                "percent": 100.0,
-                "seconds": 263.0
-            }
-        }
+        "C#": 263.0
     },
     {
-        "date": "2023-10-30",
-        "languages": {}
+        "date": "2023-10-30"
     },
     {
-        "date": "2023-10-31",
-        "languages": {}
+        "date": "2023-10-31"
     },
     {
         "date": "2023-11-01",
-        "languages": {
-            "Python": {
-                "percent": 100.0,
-                "seconds": 2.0
-            },
-            "C#": {
-                "percent": 0.0,
-                "seconds": 0.0
-            }
-        }
+        "Python": 2.0,
+        "C#": 0.0
     },
     {
-        "date": "2023-11-02",
-        "languages": {}
+        "date": "2023-11-02"
     },
     {
-        "date": "2023-11-03",
-        "languages": {}
+        "date": "2023-11-03"
     },
     {
         "date": "2023-11-04",
-        "languages": {
-            "Go": {
-                "percent": 100,
-                "seconds": 2341.0
-            }
-        }
+        "Go": 2341.0
     },
     {
         "date": "2023-11-05",
-        "languages": {
-            "C#": {
-                "percent": 100,
-                "seconds": 4356.0
-            }
-        }
+        "C#": 4356.0
     },
     {
         "date": "2023-11-06",
-        "languages": {
-            "C#": {
-                "percent": 100,
-                "seconds": 1231.0
-            }
-        }
+        "C#": 1231.0
     },
     {
-        "date": "2023-11-07",
-        "languages": {}
+        "date": "2023-11-07"
     },
     {
-        "date": "2023-11-08",
-        "languages": {}
+        "date": "2023-11-08"
     },
     {
         "date": "2023-11-09",
-        "languages": {
-            "C#": {
-                "percent": 73.32,
-                "seconds": 654.0
-            },
-            "Python": {
-                "percent": 22.42,
-                "seconds": 200.0
-            },
-            "HTML": {
-                "percent": 4.26,
-                "seconds": 38.0
-            }
-        }
+        "C#": 654.0,
+        "Python": 200.0,
+        "HTML": 38.0
     },
     {
         "date": "2023-11-10",
-        "languages": {
-            "C#": {
-                "percent": 82.49,
-                "seconds": 2614.0
-            },
-            "Go": {
-                "percent": 17.51,
-                "seconds": 555.0
-            }
-        }
+        "C#": 2614.0,
+        "Go": 555.0
     },
     {
-        "date": "2023-11-11",
-        "languages": {}
+        "date": "2023-11-11"
     },
     {
-        "date": "2023-11-12",
-        "languages": {}
+        "date": "2023-11-12"
     },
     {
         "date": "2023-11-13",
-        "languages": {
-            "Go": {
-                "percent": 100.0,
-                "seconds": 80.0
-            }
-        }
+        "Go": 80.0
     },
     {
         "date": "2023-11-14",
-        "languages": {
-            "C#": {
-                "percent": 100,
-                "seconds": 2346.0
-            }
-        }
+        "C#": 2346.0
     },
     {
-        "date": "2023-11-15",
-        "languages": {}
+        "date": "2023-11-15"
     },
     {
-        "date": "2023-11-16",
-        "languages": {}
+        "date": "2023-11-16"
     },
     {
         "date": "2023-11-17",
-        "languages": {
-            "C#": {
-                "percent": 100.0,
-                "seconds": 803.0
-            }
-        }
+        "C#": 803.0
     },
     {
         "date": "2023-11-18",
-        "languages": {
-            "C#": {
-                "percent": 100.0,
-                "seconds": 2734.0
-            }
-        }
+        "C#": 2734.0
     },
     {
         "date": "2023-11-19",
-        "languages": {
-            "C#": {
-                "percent": 100.0,
-                "seconds": 4536.0
-            }
-        }
+        "C#": 4536.0
     },
     {
-        "date": "2023-11-20",
-        "languages": {}
+        "date": "2023-11-20"
     },
     {
-        "date": "2023-11-21",
-        "languages": {}
+        "date": "2023-11-21"
     },
     {
-        "date": "2023-11-22",
-        "languages": {}
+        "date": "2023-11-22"
     },
     {
-        "date": "2023-11-23",
-        "languages": {}
+        "date": "2023-11-23"
     },
     {
-        "date": "2023-11-24",
-        "languages": {}
+        "date": "2023-11-24"
     },
     {
-        "date": "2023-11-25",
-        "languages": {}
+        "date": "2023-11-25"
     },
     {
-        "date": "2023-11-26",
-        "languages": {}
+        "date": "2023-11-26"
     },
     {
         "date": "2023-11-27",
-        "languages": {
-            "C#": {
-                "percent": 100.0,
-                "seconds": 3402.0
-            }
-        }
+        "C#": 3402.0
     },
     {
         "date": "2023-11-28",
-        "languages": {
-            "Go": {
-                "percent": 100.0,
-                "seconds": 1239.0
-            }
-        }
+        "Go": 1239.0
     },
     {
         "date": "2023-11-29",
-        "languages": {
-            "Python": {
-                "percent": 100,
-                "seconds": 2342
-            }
-        }
+        "Python": 2342
     },
     {
         "date": "2023-11-30",
-        "languages": {
-            "Go": {
-                "percent": 100,
-                "seconds": 2342
-            }
-        }
+        "Go": 2342
     },
     {
         "date": "2023-12-01",
-        "languages": {
-            "Python": {
-                "percent": 83.76,
-                "seconds": 1656.0
-            },
-            "JSON": {
-                "percent": 16.24,
-                "seconds": 321.0
-            }
-        }
+        "Python": 1656.0,
+        "JSON": 321.0
     },
     {
         "date": "2023-12-02",
-        "languages": {
-            "C#": {
-                "percent": 100.0,
-                "seconds": 10738.0
-            }
-        }
+        "C#": 10738.0
     },
     {
         "date": "2023-12-03",
-        "languages": {
-            "Python": {
-                "percent": 98.19,
-                "seconds": 6142.0
-            },
-            "JSON": {
-                "percent": 1.28,
-                "seconds": 80.0
-            },
-            "CSS": {
-                "percent": 0.53,
-                "seconds": 33.0
-            }
-        }
+        "Python": 6142.0,
+        "JSON": 80.0,
+        "CSS": 33.0
     },
     {
         "date": "2023-12-04",
-        "languages": {
-            "C#": {
-                "percent": 98.4,
-                "seconds": 1599.0
-            },
-            "JSON": {
-                "percent": 1.6,
-                "seconds": 26.0
-            }
-        }
+        "C#": 1599.0,
+        "JSON": 26.0
     },
     {
         "date": "2023-12-05",
-        "languages": {
-            "C#": {
-                "percent": 80.3,
-                "seconds": 1386.0
-            },
-            "JSON": {
-                "percent": 12.05,
-                "seconds": 208.0
-            },
-            "HTML": {
-                "percent": 7.65,
-                "seconds": 132.0
-            }
-        }
+        "C#": 1386.0,
+        "JSON": 208.0,
+        "HTML": 132.0
     },
     {
         "date": "2023-12-06",
-        "languages": {
-            "Python": {
-                "percent": 99.57,
-                "seconds": 5357.0
-            },
-            "JSON": {
-                "percent": 0.43,
-                "seconds": 23.0
-            }
-        }
+        "Python": 5357.0,
+        "JSON": 23.0
     },
     {
         "date": "2023-12-07",
-        "languages": {
-            "Python": {
-                "percent": 99.57,
-                "seconds": 5357.0
-            },
-            "JSON": {
-                "percent": 0.43,
-                "seconds": 23.0
-            }
-        }
+        "Python": 5357.0,
+        "JSON": 23.0
     },
     {
         "date": "2023-12-08",
-        "languages": {
-            "Python": {
-                "percent": 98.19,
-                "seconds": 6142.0
-            },
-            "JSON": {
-                "percent": 1.28,
-                "seconds": 80.0
-            },
-            "CSS": {
-                "percent": 0.53,
-                "seconds": 33.0
-            }
-        }
+        "Python": 6142.0,
+        "JSON": 80.0,
+        "CSS": 33.0
     },
     {
         "date": "2023-12-09",
-        "languages": {
-            "Go": {
-                "percent": 100,
-                "seconds": 233
-            }
-        }
+        "Go": 233
     },
     {
         "date": "2023-12-10",
-        "languages": {
-            "Go": {
-                "percent": 100,
-                "seconds": 3434
-            }
-        }
+        "Go": 3434
     },
     {
         "date": "2023-12-11",
-        "languages": {
-            "Go": {
-                "percent": 100,
-                "seconds": 232
-            }
-        }
+        "Go": 232
     },
     {
         "date": "2023-12-12",
-        "languages": {
-            "C#": {
-                "percent": 100.0,
-                "seconds": 3402.0
-            }
-        }
+        "C#": 3402.0
     },
     {
         "date": "2023-12-13",
-        "languages": {
-            "C#": {
-                "percent": 100.0,
-                "seconds": 2344.0
-            }
-        }
+        "C#": 2344.0
     },
     {
         "date": "2023-12-14",
-        "languages": {
-            "C#": {
-                "percent": 100.0,
-                "seconds": 1227.0
-            }
-        }
+        "C#": 1227.0
     },
     {
-        "date": "2023-12-15",
-        "languages": {}
+        "date": "2023-12-15"
     },
     {
-        "date": "2023-12-16",
-        "languages": {}
+        "date": "2023-12-16"
     },
     {
-        "date": "2023-12-17",
-        "languages": {}
+        "date": "2023-12-17"
     },
     {
         "date": "2023-12-18",
-        "languages": {
-            "C#": {
-                "percent": 73.42,
-                "seconds": 2688.0
-            },
-            "Python": {
-                "percent": 13.99,
-                "seconds": 512.0
-            },
-            "HTML": {
-                "percent": 12.59,
-                "seconds": 461.0
-            },
-            "JSON": {
-                "percent": 0.0,
-                "seconds": 0.0
-            }
-        }
+        "C#": 2688.0,
+        "Python": 512.0,
+        "HTML": 461.0,
+        "JSON": 0.0
     },
     {
-        "date": "2023-12-19",
-        "languages": {}
+        "date": "2023-12-19"
     },
     {
         "date": "2023-12-20",
-        "languages": {
-            "C#": {
-                "percent": 95.5,
-                "seconds": 5283.0
-            },
-            "JSON": {
-                "percent": 2.64,
-                "seconds": 146.0
-            },
-            "HTML": {
-                "percent": 1.83,
-                "seconds": 101.0
-            },
-            "Text": {
-                "percent": 0.04,
-                "seconds": 2.0
-            }
-        }
+        "C#": 5283.0,
+        "JSON": 146.0,
+        "HTML": 101.0,
+        "Text": 2.0
     },
     {
         "date": "2023-12-21",
-        "languages": {
-            "GDScript": {
-                "percent": 92.39,
-                "seconds": 934.0
-            },
-            "JSON": {
-                "percent": 7.61,
-                "seconds": 76.0
-            }
-        }
+        "GDScript": 934.0,
+        "JSON": 76.0
     },
     {
         "date": "2023-12-22",
-        "languages": {
-            "C#": {
-                "percent": 100.0,
-                "seconds": 2635.0
-            }
-        }
+        "C#": 2635.0
     },
     {
         "date": "2023-12-23",
-        "languages": {
-            "C#": {
-                "percent": 100.0,
-                "seconds": 896.0
-            }
-        }
+        "C#": 896.0
     },
     {
         "date": "2023-12-24",
-        "languages": {
-            "C#": {
-                "percent": 100.0,
-                "seconds": 4472.0
-            }
-        }
+        "C#": 4472.0
     },
     {
         "date": "2023-12-25",
-        "languages": {
-            "C#": {
-                "percent": 100.0,
-                "seconds": 1327.0
-            }
-        }
+        "C#": 1327.0
     },
     {
-        "date": "2023-12-26",
-        "languages": {}
+        "date": "2023-12-26"
     },
     {
-        "date": "2023-12-27",
-        "languages": {}
+        "date": "2023-12-27"
     },
     {
-        "date": "2023-12-28",
-        "languages": {}
+        "date": "2023-12-28"
     },
     {
-        "date": "2023-12-29",
-        "languages": {}
+        "date": "2023-12-29"
     },
     {
-        "date": "2023-12-30",
-        "languages": {}
+        "date": "2023-12-30"
     },
     {
-        "date": "2023-12-31",
-        "languages": {}
+        "date": "2023-12-31"
     },
     {
-        "date": "2024-01-01",
-        "languages": {}
+        "date": "2024-01-01"
     },
     {
-        "date": "2024-01-02",
-        "languages": {}
+        "date": "2024-01-02"
     },
     {
-        "date": "2024-01-03",
-        "languages": {}
+        "date": "2024-01-03"
     },
     {
-        "date": "2024-01-04",
-        "languages": {}
+        "date": "2024-01-04"
     },
     {
-        "date": "2024-01-05",
-        "languages": {}
+        "date": "2024-01-05"
     },
     {
-        "date": "2024-01-06",
-        "languages": {}
+        "date": "2024-01-06"
     },
     {
-        "date": "2024-01-07",
-        "languages": {}
+        "date": "2024-01-07"
     },
     {
-        "date": "2024-01-08",
-        "languages": {}
+        "date": "2024-01-08"
     },
     {
-        "date": "2024-01-09",
-        "languages": {}
+        "date": "2024-01-09"
     },
     {
-        "date": "2024-01-10",
-        "languages": {}
+        "date": "2024-01-10"
     },
     {
-        "date": "2024-01-11",
-        "languages": {}
+        "date": "2024-01-11"
     },
     {
         "date": "2024-01-12",
-        "languages": {
-            "JavaScript": {
-                "percent": 69.24,
-                "seconds": 10151.0
-            },
-            "C#": {
-                "percent": 22.11,
-                "seconds": 3241.0
-            },
-            "JSON": {
-                "percent": 6.71,
-                "seconds": 983.0
-            },
-            "Batch Script": {
-                "percent": 1.94,
-                "seconds": 284
-            }
-        }
+        "JavaScript": 10151.0,
+        "C#": 3241.0,
+        "JSON": 983.0,
+        "Batch Script": 284
     },
     {
         "date": "2024-01-13",
-        "languages": {
-            "JavaScript": {
-                "percent": 41.12,
-                "seconds": 5076.0
-            },
-            "Python": {
-                "percent": 38.76,
-                "seconds": 4785.0
-            },
-            "C": {
-                "percent": 20.12,
-                "seconds": 2484.0
-            }
-        }
+        "JavaScript": 5076.0,
+        "Python": 4785.0,
+        "C": 2484.0
     },
     {
         "date": "2024-01-14",
-        "languages": {
-            "C#": {
-                "percent": 89.21,
-                "seconds": 6434.0
-            },
-            "JavaScript": {
-                "percent": 10.79,
-                "seconds": 778.0
-            }
-        }
+        "C#": 6434.0,
+        "JavaScript": 778.0
     },
     {
         "date": "2024-01-15",
-        "languages": {
-            "C#": {
-                "percent": 100.0,
-                "seconds": 8498.0
-            }
-        }
+        "C#": 8498.0
     },
     {
         "date": "2024-01-16",
-        "languages": {
-            "JavaScript": {
-                "percent": 67.23,
-                "seconds": 5828.0
-            },
-            "C": {
-                "percent": 21.2,
-                "seconds": 1838.0
-            },
-            "Python": {
-                "percent": 9.33,
-                "seconds": 808.0
-            },
-            "JSON": {
-                "percent": 2.24,
-                "seconds": 208.0
-            }
-        }
+        "JavaScript": 5828.0,
+        "C": 1838.0,
+        "Python": 808.0,
+        "JSON": 208.0
     },
     {
         "date": "2024-01-17",
-        "languages": {
-            "Python": {
-                "percent": 91.4,
-                "seconds": 3868.0
-            },
-            "JSON": {
-                "percent": 8.6,
-                "seconds": 364.0
-            }
-        }
+        "Python": 3868.0,
+        "JSON": 364.0
     },
     {
         "date": "2024-01-18",
-        "languages": {
-            "JavaScript": {
-                "percent": 47.44,
-                "seconds": 12491.0
-            },
-            "C#": {
-                "percent": 32.63,
-                "seconds": 8591.0
-            },
-            "C": {
-                "percent": 19.93,
-                "seconds": 5247.0
-            }
-        }
+        "JavaScript": 12491.0,
+        "C#": 8591.0,
+        "C": 5247.0
     },
     {
         "date": "2024-01-19",
-        "languages": {
-            "JavaScript": {
-                "percent": 69.24,
-                "seconds": 10151.0
-            },
-            "C#": {
-                "percent": 22.11,
-                "seconds": 3241.0
-            },
-            "JSON": {
-                "percent": 6.71,
-                "seconds": 983.0
-            },
-            "Batch Script": {
-                "percent": 1.94,
-                "seconds": 284
-            }
-        }
+        "JavaScript": 10151.0,
+        "C#": 3241.0,
+        "JSON": 983.0,
+        "Batch Script": 284
     },
     {
         "date": "2024-01-20",
-        "languages": {
-            "JavaScript": {
-                "percent": 41.12,
-                "seconds": 5076.0
-            },
-            "Python": {
-                "percent": 38.76,
-                "seconds": 4785.0
-            },
-            "C": {
-                "percent": 20.12,
-                "seconds": 2484.0
-            }
-        }
+        "JavaScript": 5076.0,
+        "Python": 4785.0,
+        "C": 2484.0
     },
     {
         "date": "2024-01-21",
-        "languages": {
-            "C#": {
-                "percent": 89.21,
-                "seconds": 6434.0
-            },
-            "JavaScript": {
-                "percent": 10.79,
-                "seconds": 778.0
-            }
-        }
+        "C#": 6434.0,
+        "JavaScript": 778.0
     },
     {
         "date": "2024-01-22",
-        "languages": {
-            "C#": {
-                "percent": 100.0,
-                "seconds": 8498.0
-            }
-        }
+        "C#": 8498.0
     },
     {
         "date": "2024-01-23",
-        "languages": {
-            "JavaScript": {
-                "percent": 67.23,
-                "seconds": 5828.0
-            },
-            "C": {
-                "percent": 21.2,
-                "seconds": 1838.0
-            },
-            "Python": {
-                "percent": 9.33,
-                "seconds": 808.0
-            },
-            "JSON": {
-                "percent": 2.24,
-                "seconds": 208.0
-            }
-        }
+        "JavaScript": 5828.0,
+        "C": 1838.0,
+        "Python": 808.0,
+        "JSON": 208.0
     },
     {
         "date": "2024-01-24",
-        "languages": {
-            "Python": {
-                "percent": 91.4,
-                "seconds": 3868.0
-            },
-            "JSON": {
-                "percent": 8.6,
-                "seconds": 364.0
-            }
-        }
+        "Python": 3868.0,
+        "JSON": 364.0
     },
     {
         "date": "2024-01-25",
-        "languages": {
-            "JavaScript": {
-                "percent": 69.24,
-                "seconds": 10151.0
-            },
-            "Python": {
-                "percent": 22.11,
-                "seconds": 3241.0
-            },
-            "HTML": {
-                "percent": 6.71,
-                "seconds": 983.0
-            },
-            "Text": {
-                "percent": 1.94,
-                "seconds": 284
-            }
-        }
+        "JavaScript": 10151.0,
+        "Python": 3241.0,
+        "HTML": 983.0,
+        "Text": 284
     },
     {
         "date": "2024-01-26",
-        "languages": {
-            "JavaScript": {
-                "percent": 41.12,
-                "seconds": 5076.0
-            },
-            "Python": {
-                "percent": 58.88,
-                "seconds": 7269.0
-            }
-        }
+        "JavaScript": 5076.0,
+        "Python": 7269.0
     },
     {
         "date": "2024-01-27",
-        "languages": {
-            "Python": {
-                "percent": 89.21,
-                "seconds": 6434.0
-            },
-            "JavaScript": {
-                "percent": 10.79,
-                "seconds": 778.0
-            }
-        }
+        "Python": 6434.0,
+        "JavaScript": 778.0
     },
     {
         "date": "2024-01-28",
-        "languages": {
-            "Python": {
-                "percent": 100.0,
-                "seconds": 8498.0
-            }
-        }
+        "Python": 8498.0
     },
     {
         "date": "2024-01-29",
-        "languages": {
-            "JavaScript": {
-                "percent": 67.23,
-                "seconds": 5828.0
-            },
-            "dot": {
-                "percent": 21.2,
-                "seconds": 1838.0
-            },
-            "Python": {
-                "percent": 9.33,
-                "seconds": 808.0
-            },
-            "JSON": {
-                "percent": 2.24,
-                "seconds": 208.0
-            }
-        }
+        "JavaScript": 5828.0,
+        "dot": 1838.0,
+        "Python": 808.0,
+        "JSON": 208.0
     },
     {
         "date": "2024-01-30",
-        "languages": {
-            "Python": {
-                "percent": 91.4,
-                "seconds": 3868.0
-            },
-            "dot": {
-                "percent": 8.6,
-                "seconds": 364.0
-            }
-        }
+        "Python": 3868.0,
+        "dot": 364.0
     },
     {
         "date": "2024-01-31",
-        "languages": {
-            "JavaScript": {
-                "percent": 47.44,
-                "seconds": 12491.0
-            },
-            "dot": {
-                "percent": 32.63,
-                "seconds": 8591.0
-            },
-            "C": {
-                "percent": 19.93,
-                "seconds": 5247.0
-            }
-        }
+        "JavaScript": 12491.0,
+        "dot": 8591.0,
+        "C": 5247.0
     }
 ]
